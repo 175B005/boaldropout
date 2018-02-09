@@ -12,6 +12,7 @@
 
 ![](https://raw.githubusercontent.com/175B005/boaldropout/master/2018-02-09%20(1).png)
 
+![](https://raw.githubusercontent.com/175B005/boaldropout/master/2018-02-09%20(2).png)
 #### ゲームリンク
 
 - [ボールドロップアウト](https://unityroom.com/games/boaldropout/webgl)
