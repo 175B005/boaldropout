@@ -21,6 +21,7 @@
 
 - [100+ Magic Particle Effects](https://assetstore.unity.com/packages/vfx/particles/spells/100-magic-particle-effects-23515)
 
+(入れたけど使ってへんねん。。)
 #### 作った訳
 
 - ドラッグアンドドロップの記述をネットで見つけたので、試してみようと思いました。
